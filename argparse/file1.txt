@@ -1,0 +1,2 @@
+this is file1 content
+line 2 of file1
