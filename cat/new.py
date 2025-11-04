@@ -1,0 +1,7 @@
+def cat():
+    print("""this is file1 content
+line 2 of file1
+this is file2 content
+line 2 of file2
+this is file3 content
+line 2 of file3""")
