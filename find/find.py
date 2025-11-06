@@ -1,3 +1,9 @@
+"""
+Basic functionality is okay. But these if statements need to be combined
+so that I traverse only once and execute the print only if conditions
+adequately satisfy. Continuing later...
+"""
+
 import argparse
 import os
 import glob
